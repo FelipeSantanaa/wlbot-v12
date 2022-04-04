@@ -1,0 +1,29 @@
+{
+    "maximumTries": 20,
+    "cooldown": 5,
+      "createdChannel": 
+          {
+              "name": "📋│whitelist-",
+              "type": "text"
+          },
+      "workChannel": "📋│introduce"
+      ,
+      "roles": { 
+               "whitelisted": "Members",
+               "noWhitelisted": "Visitant"
+              },
+      "answersChannel": 
+      {
+          "name": "✔│sucess",
+          "id": 942888023090159656
+      },
+      "failureChannel":
+      {
+          "name": "❌│failure",
+          "id": 942888082867388516
+          },
+          
+      "prefix": "!"
+      
+  
+  } 
