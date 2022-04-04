@@ -17,7 +17,8 @@
     "discord-rpc": "^4.0.1",
     "discord.js": "12.2.0",
     "dotenv": "8.2.0",
-    "moment-timezone": "0.5.31"
+    "moment-timezone": "0.5.31",
+    "n": "^8.1.0"
   },
   "bugs": {
     "url": "https://github.com/MatheusMunizera/wlbot/issues"
